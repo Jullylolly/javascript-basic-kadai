@@ -1,5 +1,5 @@
 const ten = (num) => {	
-  return num *= 10;	
+  return num *= num;	
 }	
 	
 console.log(ten(10));	
